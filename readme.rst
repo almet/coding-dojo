@@ -15,10 +15,10 @@ dojo ?
 TDD
 ===
 
-# Écrit les tests;
-# ensuite on écrit le code pour que les tests passent le plus facilement possible;
-# rajoute des tests;
-# Mets à jour le code.
+#. Écrit les tests;
+#. ensuite on écrit le code pour que les tests passent le plus facilement possible;
+#. rajoute des tests;
+#. Mets à jour le code.
 
 ----
 
