@@ -15,12 +15,10 @@ dojo ?
 TDD
 ===
 
-* Test Driven Development
-* 1. Écrit les tests;
-* 2. ensuite on écrit le code pour que les tests passent le plus facilement
-  possible;
-* 3. rajoute des tests;
-* 4. Mets à jour le code.
+# Écrit les tests;
+# ensuite on écrit le code pour que les tests passent le plus facilement possible;
+# rajoute des tests;
+# Mets à jour le code.
 
 ----
 
